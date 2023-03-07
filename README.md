@@ -6,7 +6,8 @@
 
 <img width="155" alt="Screenshot 2023-01-16 at 19 06 40" src="https://user-images.githubusercontent.com/112861555/215999242-77b3724b-6bab-4823-b69e-fd343b7c65c5.png">
 
-<img width="427" alt="Screenshot 2023-02-01 at 10 08 54" src="https://user-images.githubusercontent.com/112861555/215999685-b2af2cc6-25f7-492d-9289-09097f5cc0fd.png">
+<img width="1346" alt="Screenshot 2023-03-07 at 11 35 45" src="https://user-images.githubusercontent.com/112861555/223398186-38f3b83b-a519-474d-a679-1d020a5cedaa.png">
+
 
 ## User story 👥
 
