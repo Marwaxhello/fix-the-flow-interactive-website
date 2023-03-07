@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./script.js" defer></script>
     <link rel="stylesheet" href="styles/style.css">
     <title>Vini-Mini</title>
 </head>
@@ -40,13 +41,11 @@
 
         <!-- VRAAG -->
 
+
+
         <div class="wrapper">
-            <header>Heeft jouw Mini ooit een acute allergische reactie gehad na het eten?</header>
+            <h4>Heeft jouw Mini ooit een acute allergische reactie gehad na het eten?</h4>
             <div class="inputfield">
-                <!-- <input type="text" placeholder=" Andere allergeen">
-                <button><i class="fas fa-plus">
-                        <ion-icon name="add-outline"></ion-icon>
-                    </i></button> -->
             </div>
 
             <ul class="Antwoorden">
@@ -56,12 +55,19 @@
             </ul>
 
                 <div class="inputfield">
+                    <div id="MainDiv">
                     <input type="text" placeholder=" Andere allergeen">
-                    <button><i class="fas fa-plus">
+                
+                    <button onclick="NewBox()"><i class="fas fa-plus">
                             <ion-icon name="add-outline"></ion-icon>
                         </i></button>
                 </div>
-
+              </div>
+        
+<div>
+<button type="button" data-previous class="btn btn-primary">VORIGE</button>
+<button type="button" data-next class="btn btn-primary">VOLGENDE</button>
+</div>
 
 
 
